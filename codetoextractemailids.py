@@ -28,3 +28,4 @@ emails = extract_emails_from_pdf(pdf_path)
 # Display the extracted emails
 for email in emails:
     print(email)
+#just for git
